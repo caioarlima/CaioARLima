@@ -1,7 +1,7 @@
 ### Olá, me chamo Caio Aguilar! 👋
 
 ## 📌 Sobre mim:
-👩‍💻 Desenvolvedor FullStack em aprendizado.<br>🎓 Estudante do Ensino Médio na escola técnica de TI Cotemig.<br>📚 Aprendendo novas linguagens e desenvolvendo minhas habilidades todos os dias.<br>🔍 Em busca do meu primeiro estágio.<br>⚽ Interesses: Programação, tecnologia, futebol, videogames.<br>🌱 Sempre aberto a novos aprendizados e desafios.
+👩‍💻 Desenvolvedor Front-End e Back-End em aprendizado.<br>🎓 Estudante do Ensino Médio na escola técnica de TI Cotemig.<br>📚 Aprendendo novas linguagens e desenvolvendo minhas habilidades todos os dias.<br>🔍 Em busca do meu primeiro estágio.<br>⚽ Interesses: Programação, tecnologia, futebol, videogames.<br>🌱 Sempre aberto a novos aprendizados e desafios.
 
 
 ## 💻 Tecnologias e Ferramentas:
